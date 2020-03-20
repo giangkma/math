@@ -730,7 +730,7 @@ let bai_tap_theo_lop = [
      { class: 3, ex: 'Số thích hợp để điền vào chỗ chấm trong dãy: 5, 10, 15, 20, … là: ', kq: 25 },
      { class: 3, ex: 'Số thích hợp để điền vào chỗ chấm trong dãy: 7, 10, 13, 16, … là: ', kq: 19 },
      { class: 3, ex: 'Số thích hợp để điền vào chỗ chấm trong dãy: 8, 14, 20, 26, … là: ', kq: 32 },
-     { class: 3, ex: 'Số thích hợp để điền vào chỗ chấm trong dãy: 11, 22, 33, 44, … là: ', kq: 45 },
+     { class: 3, ex: 'Số thích hợp để điền vào chỗ chấm trong dãy: 11, 22, 33, 44, … là: ', kq: 55 },
      { class: 3, ex: 'Tổng các chữ số của số 57906 là: ', kq: 27 },
      { class: 3, ex: 'Phép chia:   36 573  :  9  có số dư là: ', kq: 6 },
      { class: 3, ex: '3dm 5cm = … mm  Số thích hợp để điền vào chỗ chấm là: ', kq: 350 },
