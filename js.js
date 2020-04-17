@@ -454,7 +454,7 @@ let bai_tap_theo_lop = [
      { class: 3, ex: 'An có 64 viên bi chia đều thành 8 hộp, Bình có 48 viên bi cũng được chia vào các hộp với số bi có trong mỗi hộp giống như An. Hỏi Bình có ít hơn An bao nhiêu hộp bi?', kq: 2 },
      { class: 3, ex: 'An có 144 viên bi chia đều thành 12 hộp, Bình có 48 viên bi cũng được chia vào các hộp với số bi có trong mỗi hộp giống như An. Hỏi Bình có ít hơn An bao nhiêu hộp bi?', kq: 8 },
      { class: 3, ex: 'An có 81 viên bi chia đều thành 9 hộp, Bình có 63 viên bi cũng được chia vào các hộp với số bi có trong mỗi hộp giống như An. Hỏi Bình có ít hơn An bao nhiêu hộp bi?', kq: 2 },
-     { class: 3, ex: 'An có 72 viên bi chia đều thành 8 hộp, Bình có 54 viên bi cũng được chia vào các hộp với số bi có trong mỗi hộp giống như An. Hỏi Bình có ít hơn An bao nhiêu hộp bi?', kq: 2 },
+     { class: 3, ex: 'An có 72 viên bi chia đều thành 8 hộp, Bình có 54 viên bi cũng được chia vào các hộp với số bi có trong mỗi hộp giống như An. Hỏi Bình có ít hơn An bao nhiêu hộp bi?', kq: 3 },
      { class: 3, ex: 'Biết rằng cứ 5 gói kẹo như nhau thì đếm được 40 viên . Hỏi muốn chia cho 36 em thiếu nhi , mỗi em 6 viên kẹo thì phải mua tất cả bao nhiêu gói kẹo ?', kq: 27 },
      { class: 3, ex: 'Biết rằng cứ 8 gói kẹo như nhau thì đếm được 48 viên . Hỏi muốn chia cho 36 em thiếu nhi , mỗi em 12 viên kẹo thì phải mua tất cả bao nhiêu gói kẹo ?', kq: 72 },
      { class: 3, ex: 'Biết rằng cứ 9 gói kẹo như nhau thì đếm được 54 viên . Hỏi muốn chia cho 72 em thiếu nhi , mỗi em 3 viên kẹo thì phải mua tất cả bao nhiêu gói kẹo ?', kq: 36 },
