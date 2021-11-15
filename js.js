@@ -1,5 +1,4 @@
 let bai_tap_theo_lop = [
-
      //Class One
      { class: 1, ex: '1 + 5 =', kq: 6 },
      { class: 1, ex: '2 + 3 =', kq: 5 },
