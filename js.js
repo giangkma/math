@@ -1,4 +1,4 @@
-let bai_tap_theo_lop = [ddd
+let bai_tap_theo_lop = [dddx
      //Class Odne
      { class: 1, ex: '2 + 3 =', kq: 5 },
      { class: 1, ex: '1 + 3 =', kq: 4 },
